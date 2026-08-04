@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,8 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/0020-valid-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sarrafujjwal30-byte/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
